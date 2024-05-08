@@ -1,2 +1,2 @@
 # WildFires
-A descriptive look into wildfires in Canada using a dataset from kaggle employing Tableau. 
+A visual analysis of wildfires in Canada using a dataset from kaggle employing Tableau. 
